@@ -112,10 +112,3 @@ CREATE TABLE scores (
 ## 📄 License
 
 MIT License – use freely for educational or demo purposes.
-
-```
-
----
-
-Let me know if you’d like a `live demo` hosted on Replit, Railway, or your server. I can also help you add authentication or deploy it.
-```
