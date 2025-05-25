@@ -1,7 +1,8 @@
 <?php
 require_once __DIR__ . '/../includes/db.php';
-// Fetch users and judges
-$users = $mysqli->query('SELECT * FROM users');\$judges = $mysqli->query('SELECT * FROM judges');
+ $mysqli->query('SELECT * FROM users');
+$judges = $mysqli->query('SELECT * FROM judges');
+
 ?>
 <!DOCTYPE html>
 <html>
